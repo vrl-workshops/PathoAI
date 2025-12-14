@@ -1,0 +1,5 @@
+{
+  "name": "PathoTrack AI v2",
+  "description": "A clinical decision support system for pathology labs to track patient history, perform delta checks, and generate AI-assisted clinical alerts.",
+  "requestFramePermissions": []
+}
